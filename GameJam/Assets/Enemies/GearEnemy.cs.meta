@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7509050629027d44fb6bdc22b86df978
+timeCreated: 1517092387
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - EnemyHealth: {instanceID: 0}
+  - explosionSound: {fileID: 8300000, guid: ad690451ff6564c189ede9089877ca8e, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
